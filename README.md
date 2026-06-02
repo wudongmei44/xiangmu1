@@ -1,1 +1,177 @@
-IyDwn5OaIFJBR+aZuuiDvemXruetlOezu+e7nwoK5Z+65LqO5pys5Zyw55+l6K+G5bqT55qE5qOA57Si5aKe5by655Sf5oiQ77yIUkFH77yJ5pm66IO96Zeu562U57O757uf77yM5Yip55SoT2xsYW1h5pys5Zyw5aSn5qih5Z6L44CBTGFuZ0NoYWlu5qGG5p625ZKMU3RyZWFtbGl05byA5Y+R5bel5YW377yM5a6e546w5a+55pys5Zyw5paH5qGj55qE5pm66IO96Zeu562U44CCCgojIyDnjq/looPopoHmsYIKCi0gKirmk43kvZzns7vnu58qKjogV2luZG93cyAxMC8xMQotICoqUHl0aG9uKio6IDMuOCAtIDMuMTEKLSAqKk9sbGFtYSoqOiDmnIDmlrDniYjmnKzvvIjnlKjkuo7ov5DooYzmnKzlnLDlpKfmqKHlnovvvIkKCiMjIOWuieijheatpemqpAoKIyMjIDEuIOWuieijhSBPbGxhbWEKCjEuIOiuv+mXriBbaHR0cHM6Ly9vbGxhbWEuY29tL2Rvd25sb2FkXShodHRwczovL29sbGFtYS5jb20vZG93bmxvYWQpIOS4i+i9vSBXaW5kb3dzIOeJiOacrAoyLiDlronoo4XlrozmiJDlkI7vvIzmiZPlvIDlkb3ku6TooYzlt6XlhbfvvIzkuIvovb3miYDpnIDmqKHlnovvvJoKCmBgYGJhc2gKIyDkuIvovb0gZGVlcHNlZWstcjE6N2Ig5qih5Z6L77yI5o6o6I2Q77yJCm9sbGFtYSBwdWxsIGRlZXBzZWVrLXIxOjdiCgojIOaIluiAheS4i+i9vSBxd2VuMjo3YiDmqKHlnosKb2xsYW1hIHB1bGwgcXdlbjI6N2IKCiMg5LiL6L295bWM5YWl5qih5Z6L77yI55So5LqO5paH5pys5ZCR6YeP5YyW77yJCm9sbGFtYSBwdWxsIG5vbWljLWVtYmVkLXRleHQKYGBgCgozLiDpqozor4EgT2xsYW1hIOacjeWKoeaYr+WQpuato+W4uOi/kOihjO+8mgpgYGBiYXNoCm9sbGFtYSBsaXN0CmBgYAoKIyMjIDIuIOWIm+W7uiBQeXRob24g6Jma5ouf546v5aKDCgpgYGBiYXNoCiMg6L+b5YWl6aG555uu55uu5b2VCmNkIFJBRy1RQS1TeXN0ZW0KCiMg5Yib5bu66Jma5ouf546v5aKDCnB5dGhvbiAtbSB2ZW52IHZlbnYKCiMg5r+A5rS76Jma5ouf546v5aKDCiMgV2luZG93czoKdmVudlxTY3JpcHRzXGFjdGl2YXRlCiMgTGludXgvTWFjOgpzb3VyY2UgdmVudi9iaW4vYWN0aXZhdGUKYGBgCgojIyMgMy4g5a6J6KOF5L6d6LWW5YyFCgpgYGBiYXNoCnBpcCBpbnN0YWxsIC1yIHJlcXVpcmVtZW50cy50eHQKYGBgCgojIyDkvb/nlKjor7TmmI4KCiMjIyDmlrnlvI/kuIDvvJpXZWIg55WM6Z2i77yI5o6o6I2Q77yJCgpgYGBiYXNoCiMg56Gu5L+dIE9sbGFtYSDmnI3liqHlt7LlkK/liqgKIyDnoa7kv53omZrmi5/njq/looPlt7Lmv4DmtLsKCnN0cmVhbWxpdCBydW4gYXBwLnB5CmBgYAoKV2ViIOeVjOmdouWKn+iDve+8mgoxLiAqKvCfk6Qg5paH5qGj5LiK5LygKirvvJrlnKjkvqfovrnmoI/kuIrkvKAgUERG44CBRE9DWCDmiJYgVFhUIOaWh+S7tgoyLiAqKvCflKgg55+l6K+G5bqT5p6E5bu6KirvvJrngrnlh7si5p6E5bu655+l6K+G5bqTIuaMiemSru+8jOezu+e7n+iHquWKqOino+aekOaWh+aho+W5tuW7uueri+WQkemHj+e0ouW8lQozLiAqKvCfkqwg6Zeu562U5Lqk5LqSKirvvJrlnKjovpPlhaXmoYbkuK3ovpPlhaXpl67popjvvIzns7vnu5/ln7rkuo7nn6Xor4blupPnu5nlh7rlm57nrZQKNC4gKirwn5OKIOefpeivhuW6k+eKtuaAgSoq77ya5pi+56S65b2T5YmN55+l6K+G5bqT5Lit55qE5paH5qGj5pWw6YeP5ZKM5paH5pys5Z2X5pWw6YePCjUuICoq8J+TnCDlr7nor53ljoblj7IqKu+8muiHquWKqOS/neWtmOWkmui9ruWvueivneiusOW9lQoKIyMjIOaWueW8j+S6jO+8muWRveS7pOihjOaooeW8jwoKYGBgYmFzaAojIOWFiOaehOW7uuefpeivhuW6kwpweXRob24gYnVpbGRfa25vd2xlZGdlX2Jhc2UucHkKYGBgCgojIyMg5pa55byP5LiJ77ya54us56uL5Y+v5omn6KGM5paH5Lu2CgpgYGBiYXNoCiMg5L2/55SoIFB5SW5zdGFsbGVyIOaJk+WMhQpweWluc3RhbGxlciAtLW9uZWZpbGUgLS1hZGQtZGF0YSAic3JjO3NyYyIgLS1hZGQtZGF0YSAic2FtcGxlX2RvY3M7c2FtcGxlX2RvY3MiIGFwcC5weQoKIyDov5DooYznlJ/miJDnmoQgZGlzdC9hcHAuZXhlCmBgYAoKIyMg6aG555uu57uT5p6ECgpgYGAKUkFHLVFBLVN5c3RlbS8K4pSc4pSA4pSAIHNyYy8gICAgICAgICAgICAgICAgICAgICAgIyDmupDku6PnoIHmqKHlnZcK4pSCICAg4pSc4pSA4pSAIF9faW5pdF9fLnB5CuKUgiAgIOKUnOKUgOKUgCBkb2N1bWVudF9sb2FkZXIucHkgICAgIyDmlofmoaPliqDovb3mqKHlnZcK4pSCICAg4pSc4pSA4pSAIHRleHRfc3BsaXR0ZXIucHkgICAgICAjIOaWh+acrOWIhuWJsuaooeWdlwrilIIgICDilJzilIDilIAgdmVjdG9yX3N0b3JlLnB5ICAgICAgICMg5ZCR6YeP5pWw5o2u5bqT5qih5Z2XCuKUgiAgIOKUlOKUgOKUgCByYWdfY2hhaW4ucHkgICAgICAgICAgIyBSQUfpl67nrZTpk77mqKHlnZcK4pSc4pSA4pSAIHNhbXBsZV9kb2NzLyAgICAgICAgICAgICAgIyDnpLrkvovmlofmoaMK4pSCICAg4pSc4pSA4pSAIDAxX05MUOeugOS7iy50eHQK4pSCICAg4pSc4pSA4pSAIDAyX+ivjeW1jOWFpeaKgOacry50eHQK4pSCICAg4pSc4pSA4pSAIDAzX1RyYW5zZm9ybWVy5qih5Z6LLnR4dArilIIgICDilJzilIDilIAgMDRf5rOo5oSP5Yqb5py65Yi2LnR4dArilIIgICDilJzilIDilIAgMDVfQkVSVOaooeWeiy50eHQK4pSCICAg4pSU4pSA4pSAIDA2X+aWh+acrOWIhuexu+aKgOacry50eHQK4pSc4pSA4pSAIGNocm9tYV9kYi8gICAgICAgICAgICAgICAgIyBDaHJvbWEg5ZCR6YeP5pWw5o2u5bqT5a2Y5YKo55uu5b2VCuKUnOKUgOKUgCBhcHAucHkgICAgICAgICAgICAgICAgICAgICMgU3RyZWFtbGl0IFdlYiDlupTnlKgK4pSc4pSA4pSAIGJ1aWxkX2tub3dsZWRnZV9iYXNlLnB5ICAgIyDlkb3ku6TooYzniYjnn6Xor4blupPmnoTlu7rkuI7mtYvor5UK4pSc4pSA4pSAIHRlc3Rfb2xsYW1hLnB5ICAgICAgICAgICAgIyBPbGxhbWEg6L+e5o6l5rWL6K+V6ISa5pysCuKUnOKUgOKUgCByZXF1aXJlbWVudHMudHh0ICAgICAgICAgICMgUHl0aG9uIOS+nei1luWMheWIl+ihqArilJzilIDilIAgLmdpdGlnbm9yZSAgICAgICAgICAgICAgICAjIEdpdCDlv73nlaXmlofku7YK4pSU4pSA4pSAIFJFQURNRS5tZCAgICAgICAgICAgICAgICAgIyDpobnnm67or7TmmI7mlofmoaMKYGBgCgojIyDlhbPplK7mioDmnK/ngrkKCiMjIyBSQUcg5bel5L2c5rWB56iLCgoxLiAqKuaWh+aho+WKoOi9vSoq77ya5pSv5oyBIFBERuOAgURPQ1jjgIFUWFQg5qC85byP5paH5qGj55qE5om56YeP6K+75Y+WCjIuICoq5paH5pys5YiG5YmyKirvvJrkvb/nlKggYFJlY3Vyc2l2ZUNoYXJhY3RlclRleHRTcGxpdHRlcmDvvIxjaHVua19zaXplPTEwMDAsIGNodW5rX292ZXJsYXA9MjAwCjMuICoq5ZCR6YeP5YyW5a2Y5YKoKirvvJrkvb/nlKggYG5vbWljLWVtYmVkLXRleHRgIOW1jOWFpeaooeWei+WwhuaWh+acrOi9rOS4uuWQkemHj++8jOWtmOWFpSBDaHJvbWEg5ZCR6YeP5pWw5o2u5bqTCjQuICoq55u45Ly85oCn5qOA57SiKirvvJrnlKjmiLfmj5Dpl67ml7bvvIzmo4DntKLmnIDnm7jlhbPnmoQgMyDkuKrmlofmnKzlnZcKNS4gKirnrZTmoYjnlJ/miJAqKu+8muWwhuajgOe0oue7k+aenOS9nOS4uuS4iuS4i+aWh++8jOeUseWkp+aooeWei+eUn+aIkOacgOe7iOetlOahiAoKIyMjIOS9v+eUqOeahOaooeWeiwoKLSAqKuivreiogOaooeWeiyoqOiBkZWVwc2Vlay1yMTo3Yu+8iOmAmui/hyBPbGxhbWEg5pys5Zyw6L+Q6KGM77yJCi0gKirltYzlhaXmqKHlnosqKjogbm9taWMtZW1iZWQtdGV4dO+8iOmAmui/hyBPbGxhbWEg5pys5Zyw6L+Q6KGM77yJCgojIyMg57O757uf5o+Q56S66K+NCgrmqKHlnovlm57nrZTkuKXmoLzpgbXlvqrku6XkuIvop4TliJnvvJoKLSDln7rkuo7mj5DkvpvnmoTlj4LogIPmlofmoaPlm57nrZTpl67popgKLSDoi6XmlofmoaPkuK3msqHmnInnm7jlhbPkv6Hmga/vvIzmmI7noa7lm57nrZQi5paH5qGj5Lit5pyq5om+5Yiw55u45YWz562U5qGIIgotIOS4jee8lumAoOaIluiHhuaDs+aWh+aho+S4reayoeacieeahOS/oeaBrwoKIyMg5Yqf6IO954m554K5CgotIOKchSDmlK/mjIEgUERG44CBRE9DWOOAgVRYVCDmoLzlvI/mlofmoaPkuIrkvKAKLSDinIUg5om56YeP5paH5qGj5aSE55CG5ZKM5ZCR6YeP5YyW5a2Y5YKoCi0g4pyFIOaZuuiDveajgOe0ouWinuW8uueUn+aIkO+8iFJBR++8iQotIOKchSDlpJrova7lr7nor53orrDlv4blip/og70KLSDinIUg55+l6K+G5bqT54q25oCB5a6e5pe25pi+56S6Ci0g4pyFIOWPr+aJk+WMheS4uueLrOeriyBleGUg5paH5Lu2Ci0g4pyFIOWujOWFqOacrOWcsOi/kOihjO+8jOaVsOaNruWuieWFqAoKIyMg6aG555uu5pWI5p6c5oiq5Zu+CgojIyMg55WM6Z2i5oiq5Zu+Me+8muezu+e7n+S4u+eVjOmdogohW+S4u+eVjOmdol0oc2NyZWVuc2hvdHMvbWFpbl9pbnRlcmZhY2UucG5nKQoKIyMjIOeVjOmdouaIquWbvjLvvJrpl67nrZTnpLrkvosKIVvpl67nrZTnpLrkvotdKHNjcmVlbnNob3RzL3FhX2V4YW1wbGUucG5nKQoKIyMjIOeVjOmdouaIquWbvjPvvJrnn6Xor4blupPnrqHnkIYKIVvnn6Xor4blupPnrqHnkIZdKHNjcmVlbnNob3RzL2tiX21hbmFnZW1lbnQucG5nKQoKIyMg5bey55+l6Zeu6aKY5LiO5pS56L+b5pa55ZCRCgojIyMg5bey55+l6Zeu6aKYCjEuIOmmluasoeWKoOi9veaooeWei+mcgOimgeS4gOWumuaXtumXtAoyLiDlpITnkIblpKfmlofmoaPml7blhoXlrZjljaDnlKjovoPpq5gKMy4g5bWM5YWl5qih5Z6L5a+55Lit5paH5pSv5oyB5pyJ5b6F5LyY5YyWCgojIyMg5pS56L+b5pa55ZCRCjEuIOaUr+aMgeabtOWkmuaWh+aho+agvOW8j++8iEhUTUzjgIFNYXJrZG93buOAgUpTT07nrYnvvIkKMi4g5re75Yqg5paH5qGj6aKE6KeI5Yqf6IO9CjMuIOaUr+aMgeWkmuivreiogOaWh+aho+WkhOeQhgo0LiDkvJjljJbmo4DntKLnrZbnlaXvvIjlpoLmt7flkIjmo4DntKLvvIkKNS4g5re75Yqg55So5oi36K6k6K+B5ZKM5aSa55So5oi35pSv5oyBCjYuIOaUr+aMgeefpeivhuW6k+eahOWinumHj+abtOaWsAo3LiDkvb/nlKjmm7TlvLrlpKfnmoTltYzlhaXmqKHlnovmj5DljYfmo4DntKLotKjph48KCiMjIOiuuOWPr+ivgQoKTUlUIExpY2Vuc2U=
+# 📚 RAG智能问答系统
+
+基于本地知识库的检索增强生成（RAG）智能问答系统，利用Ollama本地大模型、LangChain框架和Streamlit开发工具，实现对本地文档的智能问答。
+
+## 环境要求
+
+- **操作系统**: Windows 10/11
+- **Python**: 3.8 - 3.11
+- **Ollama**: 最新版本（用于运行本地大模型）
+
+## 安装步骤
+
+### 1. 安装 Ollama
+
+1. 访问 [https://ollama.com/download](https://ollama.com/download) 下载 Windows 版本
+2. 安装完成后，打开命令行工具，下载所需模型：
+
+```bash
+# 下载 deepseek-r1:7b 模型（推荐）
+ollama pull deepseek-r1:7b
+
+# 或者下载 qwen2:7b 模型
+ollama pull qwen2:7b
+
+# 下载嵌入模型（用于文本向量化）
+ollama pull nomic-embed-text
+```
+
+3. 验证 Ollama 服务是否正常运行：
+```bash
+ollama list
+```
+
+### 2. 创建 Python 虚拟环境
+
+```bash
+# 进入项目目录
+cd RAG-QA-System
+
+# 创建虚拟环境
+python -m venv venv
+
+# 激活虚拟环境
+# Windows:
+venv\Scripts\activate
+# Linux/Mac:
+source venv/bin/activate
+```
+
+### 3. 安装依赖包
+
+```bash
+pip install -r requirements.txt
+```
+
+## 使用说明
+
+### 方式一：Web 界面（推荐）
+
+```bash
+# 确保 Ollama 服务已启动
+# 确保虚拟环境已激活
+
+streamlit run app.py
+```
+
+Web 界面功能：
+1. **📤 文档上传**：在侧边栏上传 PDF、DOCX 或 TXT 文件
+2. **🔨 知识库构建**：点击"构建知识库"按钮，系统自动解析文档并建立向量索引
+3. **💬 问答交互**：在输入框中输入问题，系统基于知识库给出回答
+4. **📊 知识库状态**：显示当前知识库中的文档数量和文本块数量
+5. **📜 对话历史**：自动保存多轮对话记录
+
+### 方式二：命令行模式
+
+```bash
+# 先构建知识库
+python build_knowledge_base.py
+```
+
+### 方式三：独立可执行文件
+
+```bash
+# 使用 PyInstaller 打包
+pyinstaller --onefile --add-data "src;src" --add-data "sample_docs;sample_docs" app.py
+
+# 运行生成的 dist/app.exe
+```
+
+## 项目结构
+
+```
+RAG-QA-System/
+├── src/                      # 源代码模块
+│   ├── __init__.py
+│   ├── document_loader.py    # 文档加载模块
+│   ├── text_splitter.py      # 文本分割模块
+│   ├── vector_store.py       # 向量数据库模块
+│   └── rag_chain.py          # RAG问答链模块
+├── sample_docs/              # 示例文档
+│   ├── 01_NLP简介.txt
+│   ├── 02_词嵌入技术.txt
+│   ├── 03_Transformer模型.txt
+│   ├── 04_注意力机制.txt
+│   ├── 05_BERT模型.txt
+│   └── 06_文本分类技术.txt
+├── chroma_db/                # Chroma 向量数据库存储目录
+├── app.py                    # Streamlit Web 应用
+├── build_knowledge_base.py   # 命令行版知识库构建与测试
+├── test_ollama.py            # Ollama 连接测试脚本
+├── requirements.txt          # Python 依赖包列表
+├── .gitignore                # Git 忽略文件
+└── README.md                 # 项目说明文档
+```
+
+## 关键技术点
+
+### RAG 工作流程
+
+1. **文档加载**：支持 PDF、DOCX、TXT 格式文档的批量读取
+2. **文本分割**：使用 `RecursiveCharacterTextSplitter`，chunk_size=1000, chunk_overlap=200
+3. **向量化存储**：使用 `nomic-embed-text` 嵌入模型将文本转为向量，存入 Chroma 向量数据库
+4. **相似性检索**：用户提问时，检索最相关的 3 个文本块
+5. **答案生成**：将检索结果作为上下文，由大模型生成最终答案
+
+### 使用的模型
+
+- **语言模型**: deepseek-r1:7b（通过 Ollama 本地运行）
+- **嵌入模型**: nomic-embed-text（通过 Ollama 本地运行）
+
+### 系统提示词
+
+模型回答严格遵循以下规则：
+- 基于提供的参考文档回答问题
+- 若文档中没有相关信息，明确回答"文档中未找到相关答案"
+- 不编造或臆想文档中没有的信息
+
+## 功能特点
+
+- ✅ 支持 PDF、DOCX、TXT 格式文档上传
+- ✅ 批量文档处理和向量化存储
+- ✅ 智能检索增强生成（RAG）
+- ✅ 多轮对话记忆功能
+- ✅ 知识库状态实时显示
+- ✅ 可打包为独立 exe 文件
+- ✅ 完全本地运行，数据安全
+
+## 项目效果截图
+
+### 界面截图1：系统主界面
+![主界面](screenshots/main_interface.png)
+
+### 界面截图2：问答示例
+![问答示例](screenshots/qa_example.png)
+
+### 界面截图3：知识库管理
+![知识库管理](screenshots/kb_management.png)
+
+## 已知问题与改进方向
+
+### 已知问题
+1. 首次加载模型需要一定时间
+2. 处理大文档时内存占用较高
+3. 嵌入模型对中文支持有待优化
+
+### 改进方向
+1. 支持更多文档格式（HTML、Markdown、JSON等）
+2. 添加文档预览功能
+3. 支持多语言文档处理
+4. 优化检索策略（如混合检索）
+5. 添加用户认证和多用户支持
+6. 支持知识库的增量更新
+7. 使用更强大的嵌入模型提升检索质量
+
+## 许可证
+
+MIT License
